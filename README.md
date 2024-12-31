@@ -14,6 +14,7 @@ Each solution is organized into folders by date and problem name. Inside each fo
 - A README.md file describing the problem, approach, and complexity analysis.
 
 ### Example Structure:
+```
 .
 ├── 2024-12-31
 │   ├── yassine
@@ -32,7 +33,7 @@ Each solution is organized into folders by date and problem name. Inside each fo
 │   │   ├── problem_name.java
 │   └── README.md
 └── ...
-
+```
 
 ---
 
