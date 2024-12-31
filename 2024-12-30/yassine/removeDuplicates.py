@@ -14,7 +14,7 @@
 #                 del nums[j+1]
 #             j = j + 1
 #     return len(nums)
-def removeDuplicates(nums):         #solution seems fine but not accepted on leetcode ??
+def removeDuplicates(nums):         #solution looks fine but not accepted on leetcode 
     nums = list(set(nums))
     print(nums)
     return len(nums)
