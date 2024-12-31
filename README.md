@@ -16,7 +16,7 @@ Each solution is organized into folders by date and problem name. Inside each fo
 ### Example Structure:
 ```
 .
-├── 2024-12-31
+├── 2024-12-30
 │   ├── yassine
 │   │   ├── problem_name.py
 │   │   ├── problem_name.java
@@ -24,7 +24,7 @@ Each solution is organized into folders by date and problem name. Inside each fo
 │   │   ├── problem_name.py
 │   │   ├── problem_name.java
 │   └── README.md
-├── 2024-01-01
+├── 2024-12-31
 │   ├── yassine
 │   │   ├── problem_name.py
 │   │   ├── problem_name.java
